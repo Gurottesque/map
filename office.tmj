@@ -83,6 +83,11 @@
                  "name":"jitsiRoom",
                  "type":"string",
                  "value":"meeting"
+                }, 
+                {
+                 "name":"jitsiUrl",
+                 "type":"string",
+                 "value":"jitsi.zoetro.pe"
                 }],
          "type":"tilelayer",
          "visible":true,
