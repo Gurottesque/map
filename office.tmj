@@ -3028,6 +3028,11 @@
           "name": "jitsiRoom",
           "type": "string",
           "value": "meeting"
+        },
+        {
+          "name": "jitsiUrl",
+          "type": "string",
+          "value": "jitsi.zoetro.pe"
         }
       ],
       "x": 0,
@@ -7589,7 +7594,7 @@
     {
       "columns": 15,
       "firstgid": 1,
-      "image": "office-chunk-1-84318f22.png",
+      "image": "office-chunk-1-14f1017e.png",
       "imageheight": 480,
       "imagewidth": 480,
       "margin": 0,
